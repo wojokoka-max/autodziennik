@@ -2,7 +2,6 @@
   "name": "autodziennik",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
   "description": "AutoDziennik — kompletna historia samochodu. Prywatny, inteligentny organizer pojazdu (PWA, local-first, Vercel).",
   "scripts": {
     "dev": "next dev",
